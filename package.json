@@ -1,11 +1,16 @@
 {
-  "name": "chai_backend",
+  "name": "vedio_clone",
   "version": "1.0.0",
+  "description": "a backend made code by youtube channel",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "NarasimhaGupta",
+  "license": "ISC"
 }
